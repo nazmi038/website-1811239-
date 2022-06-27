@@ -8,7 +8,7 @@
  
  
 #  INFO 4345 Section 01
-#  Topic:  wEB SHOP
+#  Topic:  WEB SHOP
  
 
 #  LECTURER: MUHAMAD SADRY ABU SEMAN
