@@ -16,5 +16,22 @@
 
 #  Introduction
 
+Food web is an online purchasing system which allows customers to buy food.
+
+
+# Objective
+
+To make an easy quick purchase to ease the customers.
+
+# Web Application Security Enhancement
+
+1. Input Validation: using first name , last name, email and other personal information.
+2.  Authentication: Username and password
+3.  Authorisation:
+4.  XSS and CSRF Prevention : encryption
+5.  Database Security Principles
+6.  File Security Principles:
+
+#References:
 
 
