@@ -29,9 +29,9 @@ To make an easy quick purchase to ease the customers.
 2.  Authentication: Username and password
 3.  Authorisation:
 4.  XSS and CSRF Prevention : encryption
-5.  Database Security Principles
+5.  Database Security Principles :
 6.  File Security Principles:
 
-#References:
+#References: 
 
 
