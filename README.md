@@ -7,7 +7,7 @@
 #  COURSE TITLE: WEB APPLICATION
  
  
-#  INFO 4335 Section 01
+#  INFO 4345 Section 01
 #  Topic:  wEB SHOP
  
 
