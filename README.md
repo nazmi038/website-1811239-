@@ -27,11 +27,11 @@ To make an easy quick purchase to ease the customers.
 
 1. Input Validation: using first name , last name, email and other personal information.
 2.  Authentication: Username and password
-3.  Authorisation:
+3.  Authorisation:Username and password
 4.  XSS and CSRF Prevention : encryption
-5.  Database Security Principles :
-6.  File Security Principles:
+5.  Database Security Principles : encryption
+6.  File Security Principles: 
 
-#References: 
+#References:  https://youtu.be/Ervti0O1wgo
 
 
